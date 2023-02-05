@@ -1,0 +1,17 @@
+alpha_vantage==2.3.1
+cufflinks==0.17.3
+gnews==0.2.7
+matplotlib==3.3.2
+numpy==1.24.1
+pandas==1.5.2
+pandas_datareader==0.10.0
+prophet==1.1.2
+scikit_learn==1.2.1
+seaborn==0.11.0
+statsmodels==0.12.0
+streamlit==1.16.0
+streamlit_option_menu==0.3.2
+tensorflow==2.11.0
+tensorflow_intel==2.11.0
+yfinance==0.2.3
+~umpy==1.24.1
